@@ -1,0 +1,12 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/
+# data and computed results stay outside the repository
+work/
+panel*/
+crsp/
+*.npz
+*.parquet
